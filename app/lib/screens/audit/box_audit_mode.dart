@@ -1,0 +1,1 @@
+enum BoxAuditMode { reference, audit }
